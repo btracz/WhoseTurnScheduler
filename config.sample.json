@@ -1,0 +1,8 @@
+{
+  "endpoint": "https://*******.azurewebsites.net",
+  "pollStartUri": "/admin/poll/start",
+  "pollEndUri": "/admin/poll/end",
+  "notifSendUri": "/admin/send-notification",
+  "login": "admin",
+  "password": "******"
+}
